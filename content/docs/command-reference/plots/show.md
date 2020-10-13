@@ -12,7 +12,7 @@ usage: dvc plots show [-h] [-q | -v] [-t <name_or_path>] [-x <field>]
                       [targets [targets ...]]
 
 positional arguments:
-  targets     Plot files to visualize (shows all plots defined in
+  targets     Plots files to visualize (shows all plots defined in
               dvc.yaml by default).
 ```
 
