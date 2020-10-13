@@ -46,7 +46,7 @@ please see `dvc plots`.
 
 ## Options
 
-- `--targets <path>` - specific metric files to visualize. When specifying
+- `--targets <path>` - specific metrics files to visualize. When specifying
   arguments for `--targets` before `revisions`, you should use `--` after this
   option's arguments, e.g.:
 
